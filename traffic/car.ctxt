@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ car\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=val\ min\ max
+comment1.target=double\ clamp(double,\ double,\ double)
+comment2.params=course
+comment2.target=void\ setCourse(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+numComments=5

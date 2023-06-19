@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=intersection
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ intersection\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dir\ wait\ start
+comment1.target=int[]\ getTempDestination(Direction,\ boolean,\ boolean)
+comment2.params=car\ inter\ start\ end
+comment2.target=void\ plotCourse(car,\ intersection,\ Direction,\ Direction)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

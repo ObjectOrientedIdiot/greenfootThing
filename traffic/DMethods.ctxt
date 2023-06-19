@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DMethods
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DMethods\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dir
+comment1.target=Direction\ invertDirection(Direction)
+comment2.params=dir
+comment2.target=int\ angleFromDirection(Direction)
+comment3.params=
+comment3.target=Direction\ randomDirection()
+comment4.params=exclude
+comment4.target=Direction\ randomDirection(Direction)
+numComments=5
